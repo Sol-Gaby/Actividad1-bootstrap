@@ -1,0 +1,54 @@
+html{
+    background-color: rgb(160, 26, 26)!important;
+    margin: auto;
+}
+h5{
+justify-self: center;
+}
+.container{
+    margin: auto;
+    background-color: rgb(228, 228, 228);
+}
+.navbar{
+    border-radius:0rem 0rem 0.5rem 0.5rem ;
+}
+.navbar-brand p{
+    color: rgb(255, 204, 0);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 1px 5px 5px rgba(255, 255, 255, 0.555);
+}
+.navbar-brand p:hover{
+    color: rgb(255, 234, 0);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 1px 5px 5px rgb(255, 230, 0);
+}
+span:hover{
+    color: rgb(255, 204, 0);
+}
+.form-control:hover{
+    background-color: rgb(255, 230, 130);
+}
+.form-check-input:hover{
+    background-color: rgb(255, 230, 130);
+}
+.card{
+    border-radius: 0.5rem 0.5rem 0rem 0rem;
+}
+.img1{
+    background-color: rgb(238, 91, 0);
+}
+.img2{
+    background-color: rgb(14, 180, 251);
+}
+.back{
+    width: 70%;
+    margin: auto;
+}
+#centrado{
+    width: 70%;
+    margin: auto;
+    padding-top: 1rem;
+    background-color: rgb(233, 233, 233);
+}
